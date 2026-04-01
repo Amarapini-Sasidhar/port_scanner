@@ -1,6 +1,6 @@
-# Amarapini Sasidhar Port Scanner
+#Port Scanner
 
-Amarapini Sasidhar Port Scanner is a desktop-based network scanning utility built with Python and Tkinter. It provides a simple graphical interface for launching common Nmap scans and viewing the output inside the application window.
+This Port Scanner is a desktop-based network scanning utility built with Python and Tkinter. It provides a simple graphical interface for launching common Nmap scans and viewing the output inside the application window.
 
 This README has been fully rewritten with original wording and updated author details.
 
