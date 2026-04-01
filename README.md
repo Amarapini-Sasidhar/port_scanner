@@ -89,13 +89,13 @@ python3 amarapini_sasidhar_port_scanner.py
 
 Basic scan output for `scanme.nmap.org` displayed in the GUI:
 
-![Scan result for scanme.nmap.org](result_scan_scanme.png)
+<img width="1919" height="880" alt="Screenshot 2026-04-01 184214" src="https://github.com/user-attachments/assets/e2ba4f1e-1bfe-44c6-aa05-0cab9f5e74d5" />
 
 ### Sample Result 2
 
 Basic scan output for `google.com` displayed in the GUI:
 
-![Scan result for google.com](result_scan_google.png)
+<img width="1909" height="870" alt="Screenshot 2026-04-01 184509" src="https://github.com/user-attachments/assets/88d006ab-a330-4d02-a1c6-f1456f137334" />
 
 ## Notes
 
